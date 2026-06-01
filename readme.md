@@ -1,4 +1,10 @@
+# Run file in watch mode
+`npx tsx watch 06-hash-tables-maps-sets/04-word-frequency-counter/word-frequency-counter.js`
+
+
 # Traversy JS Challenges: Data Structures & Algorithms
+
+
 
 This is the sandbox for my [70+ JS Challenges: Data Structures & Algorithms Course](https://www.traversymedia.com/javascript-challeges). Just about all of the concepts that are included, also exist in other languages. So, if you are not a JavaScript developer, you can still follow along and learn from this course/repo.
 
